@@ -46,7 +46,7 @@ Required Parts:
 
 ### Step 5: Assembling the end wheels:
 Required Parts:
-- M4x6 Screws x6
+- M3x6 Screws x6
 - Bronze Pillar x3
 - M4 nut x1
 - Long screw x1
