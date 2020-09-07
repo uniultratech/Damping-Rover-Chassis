@@ -18,18 +18,7 @@ Done result:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/92347804-fdf17d80-f085-11ea-9cf1-bdb768ff2404.jpg)
 
-## Step 3: Assemble the Wheel
-Required Parts:
-- M4x6 Screws x6
-- Bronze pillars x3
-- Long screw x1
-- Plastic bearing x1
-- M4 nut x1
-
-![alt text](https://user-images.githubusercontent.com/68445659/92347802-fcc05080-f085-11ea-9cfc-9a94890771ab.jpg)
-![alt text](https://user-images.githubusercontent.com/68445659/92347804-fdf17d80-f085-11ea-9cf1-bdb768ff2404.jpg)
-
-## Step 4: Adding the support for wheel
+## Step 3: Adding the support for wheel
 Required Parts:
 - M4x6 Screws x2
 - M4x10 Screw x1
@@ -42,7 +31,7 @@ Required Parts:
 Finished Part: note: make sure you have a washer in the middle hole with the M4x10 screw
 ![alt text](https://user-images.githubusercontent.com/68445659/92347810-0053d780-f086-11ea-82ea-2dcf9c25ed9d.jpg)
 
-## Step 5: Attaching the wheel onto the Chassis
+## Step 4: Attaching the wheel onto the Chassis
 Required Parts:
 - M4x6 Screws x1
 - M4 nut x1(you only need one here)
@@ -55,7 +44,7 @@ Required Parts:
 
 ## Repeat the previous steps 7 more times
 
-### Step 6: Assembling the end wheels:
+### Step 5: Assembling the end wheels:
 Required Parts:
 - M4x6 Screws x6
 - Bronze Pillar x3
@@ -66,7 +55,7 @@ Required Parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/92347820-03e75e80-f086-11ea-827d-03e6a5d07e38.jpg)
 
-### Step 7: Attach wheel to front
+### Step 6: Attach wheel to front
 Required Parts:
 - M4 nut x1
 - M4 washer x2
@@ -77,7 +66,7 @@ Required Parts:
 
 ## repeat the previous step 1 more time
 
-### Step 8: Attach motor to the chassis
+### Step 7: Attach motor to the chassis
 Required Parts:
 - Motor x1
 - Flat head screws x3
@@ -86,7 +75,7 @@ Required Parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/92347833-08137c00-f086-11ea-9935-e3f473bc8595.jpg)
 
-### Step 9: Assemble the gear wheels
+### Step 8: Assemble the gear wheels
 Notice: you might have the end pieces those are 6 holes and 3 holes, if that is the case, makesure you have the 3 holes plate placed inside(close to the chassis)
 you might have all as 6 holes, in that case, it won't matter which one you place inside
 Required Parts:
@@ -99,7 +88,7 @@ Required Parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/92347839-0944a900-f086-11ea-993b-c5fd1b370bbd.jpg)
 
-### Step 10: Adding the no head screw
+### Step 9: Adding the no head screw
 Required Parts:
 - no head screw x2
 
@@ -107,7 +96,7 @@ Required Parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/92347841-0a75d600-f086-11ea-9aeb-517b1ab92679.jpg)
 
-### Step 11: attach the track
+### Step 10: attach the track
 Congrats! you have done assembling the Damping Rover Chassis.
 ![alt text](https://user-images.githubusercontent.com/68445659/92349136-051a8a80-f08a-11ea-9bfb-5d5518fbd0e5.png)
 
