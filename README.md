@@ -7,7 +7,7 @@ If you check the wheel plates, we have 16 small plates for damping wheels, 4 big
 
 ## Step 2: Assemble the Wheel
 Required Parts:
-- M4x6 Screws x6
+- M3x6 Screws x6
 - Bronze pillars x3
 - Long screw x1
 - Plastic bearing x1
@@ -16,6 +16,7 @@ Required Parts:
 ![alt text](https://user-images.githubusercontent.com/68445659/92347802-fcc05080-f085-11ea-9cfc-9a94890771ab.jpg)
 Done result: 
 
+![alt text](https://user-images.githubusercontent.com/68445659/92347804-fdf17d80-f085-11ea-9cf1-bdb768ff2404.jpg)
 
 ## Step 3: Assemble the Wheel
 Required Parts:
